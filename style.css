@@ -130,3 +130,62 @@ a{
         margin-right: auto;
     }
 }
+.outreach{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    width: fit-content;
+    margin-right: auto;
+}
+.outreach:hover{
+    opacity: .7;
+}
+.outreach i{
+    transform: rotate(-45deg);
+}
+
+
+.project-item{
+    display: flex;
+    align-items: stretch;
+    gap: 24px;
+}
+
+.header-text{
+    margin-bottom: 24px;
+}
+
+.project-item div:first-child{
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
